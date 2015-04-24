@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>nRF2401/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>235</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>965</ColumnWidth1><ColumnWidth2>257</ColumnWidth2><ColumnWidth3>64</ColumnWidth3></Build>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1287</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25988-15763</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>nRF2401</ExpandedNode><ExpandedNode>nRF2401/FWLib</ExpandedNode><ExpandedNode>nRF2401/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7460-16314</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-20014-29631</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>445</SelStart><SelEnd>445</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\stm8s_it.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1225</SelStart><SelEnd>1225</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\sysclock.c</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>2366</SelStart><SelEnd>2366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\sysclock.h</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>809</SelStart><SelEnd>818</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\nRF24L01.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>701</SelStart><SelEnd>701</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\nRF24L01.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1271</SelStart><SelEnd>1271</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\FWlib\src\stm8s_gpio.c</Filename><XPos>0</XPos><YPos>50</YPos><SelStart>2775</SelStart><SelEnd>2775</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\FWlib\inc\stm8s_gpio.h</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2002</SelStart><SelEnd>2023</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\stm8s_conf.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2046</SelStart><SelEnd>2046</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\FWlib\inc\stm8s_itc.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>883</SelStart><SelEnd>883</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01378190><key>iaridepm.enu1</key></Toolbar-01378190></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>598</Bottom><Right>309</Right><x>-2</x><y>-2</y><xscreen>271</xscreen><yscreen>222</yscreen><sizeHorzCX>188194</sizeHorzCX><sizeHorzCY>268765</sizeHorzCY><sizeVertCX>215972</sizeVertCX><sizeVertCY>726392</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>183</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>185</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>223971</sizeHorzCY><sizeVertCX>188194</sizeVertCX><sizeVertCY>268765</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
